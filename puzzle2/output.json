@@ -1,0 +1,942 @@
+[
+  {
+    "id": 1,
+    "games": [
+      { "red": 1, "green": 1, "blue": 1 },
+      { "red": 8, "green": 1, "blue": 7 },
+      { "red": 10, "green": 0, "blue": 6 },
+      { "red": 4, "green": 2, "blue": 9 },
+      { "red": 0, "green": 1, "blue": 3 },
+      { "red": 4, "green": 1, "blue": 10 }
+    ]
+  },
+  {
+    "id": 2,
+    "games": [
+      { "red": 9, "green": 7, "blue": 3 },
+      { "red": 5, "green": 15, "blue": 2 },
+      { "red": 10, "green": 13, "blue": 3 }
+    ]
+  },
+  {
+    "id": 3,
+    "games": [
+      { "red": 3, "green": 4, "blue": 1 },
+      { "red": 6, "green": 3, "blue": 2 },
+      { "red": 6, "green": 1, "blue": 16 }
+    ]
+  },
+  {
+    "id": 4,
+    "games": [
+      { "red": 19, "green": 2, "blue": 2 },
+      { "red": 11, "green": 16, "blue": 3 },
+      { "red": 20, "green": 13, "blue": 18 },
+      { "red": 18, "green": 16, "blue": 12 },
+      { "red": 16, "green": 8, "blue": 16 }
+    ]
+  },
+  {
+    "id": 5,
+    "games": [
+      { "red": 1, "green": 8, "blue": 12 },
+      { "red": 6, "green": 10, "blue": 13 },
+      { "red": 1, "green": 6, "blue": 3 },
+      { "red": 2, "green": 7, "blue": 14 }
+    ]
+  },
+  {
+    "id": 6,
+    "games": [
+      { "red": 1, "green": 0, "blue": 0 },
+      { "red": 0, "green": 0, "blue": 1 },
+      { "red": 0, "green": 2, "blue": 1 },
+      { "red": 1, "green": 0, "blue": 3 },
+      { "red": 1, "green": 2, "blue": 2 },
+      { "red": 1, "green": 1, "blue": 7 }
+    ]
+  },
+  {
+    "id": 7,
+    "games": [
+      { "red": 2, "green": 5, "blue": 1 },
+      { "red": 1, "green": 5, "blue": 0 },
+      { "red": 3, "green": 0, "blue": 7 },
+      { "red": 1, "green": 4, "blue": 8 }
+    ]
+  },
+  {
+    "id": 8,
+    "games": [
+      { "red": 0, "green": 6, "blue": 4 },
+      { "red": 0, "green": 10, "blue": 7 },
+      { "red": 0, "green": 0, "blue": 5 },
+      { "red": 1, "green": 0, "blue": 7 },
+      { "red": 1, "green": 11, "blue": 0 }
+    ]
+  },
+  {
+    "id": 9,
+    "games": [
+      { "red": 0, "green": 2, "blue": 2 },
+      { "red": 8, "green": 6, "blue": 5 },
+      { "red": 8, "green": 11, "blue": 6 },
+      { "red": 8, "green": 3, "blue": 4 },
+      { "red": 10, "green": 2, "blue": 5 }
+    ]
+  },
+  {
+    "id": 10,
+    "games": [
+      { "red": 2, "green": 8, "blue": 2 },
+      { "red": 0, "green": 3, "blue": 10 },
+      { "red": 2, "green": 1, "blue": 12 },
+      { "red": 2, "green": 9, "blue": 0 },
+      { "red": 2, "green": 3, "blue": 5 }
+    ]
+  },
+  {
+    "id": 11,
+    "games": [
+      { "red": 12, "green": 1, "blue": 1 },
+      { "red": 1, "green": 7, "blue": 0 },
+      { "red": 1, "green": 3, "blue": 2 },
+      { "red": 8, "green": 15, "blue": 0 }
+    ]
+  },
+  {
+    "id": 12,
+    "games": [
+      { "red": 4, "green": 10, "blue": 4 },
+      { "red": 3, "green": 18, "blue": 10 },
+      { "red": 5, "green": 18, "blue": 2 },
+      { "red": 2, "green": 16, "blue": 8 }
+    ]
+  },
+  {
+    "id": 13,
+    "games": [
+      { "red": 8, "green": 3, "blue": 1 },
+      { "red": 6, "green": 2, "blue": 8 },
+      { "red": 11, "green": 3, "blue": 6 },
+      { "red": 2, "green": 0, "blue": 13 },
+      { "red": 5, "green": 2, "blue": 1 },
+      { "red": 6, "green": 0, "blue": 0 }
+    ]
+  },
+  {
+    "id": 14,
+    "games": [
+      { "red": 10, "green": 15, "blue": 3 },
+      { "red": 6, "green": 7, "blue": 6 },
+      { "red": 8, "green": 13, "blue": 4 },
+      { "red": 9, "green": 4, "blue": 1 },
+      { "red": 9, "green": 0, "blue": 7 }
+    ]
+  },
+  {
+    "id": 15,
+    "games": [
+      { "red": 4, "green": 8, "blue": 9 },
+      { "red": 4, "green": 4, "blue": 8 },
+      { "red": 10, "green": 8, "blue": 7 }
+    ]
+  },
+  {
+    "id": 16,
+    "games": [
+      { "red": 12, "green": 2, "blue": 8 },
+      { "red": 10, "green": 4, "blue": 4 },
+      { "red": 5, "green": 9, "blue": 4 },
+      { "red": 7, "green": 0, "blue": 1 }
+    ]
+  },
+  {
+    "id": 17,
+    "games": [
+      { "red": 4, "green": 6, "blue": 1 },
+      { "red": 0, "green": 0, "blue": 1 },
+      { "red": 6, "green": 10, "blue": 8 },
+      { "red": 2, "green": 3, "blue": 2 },
+      { "red": 14, "green": 8, "blue": 6 }
+    ]
+  },
+  {
+    "id": 18,
+    "games": [
+      { "red": 5, "green": 1, "blue": 5 },
+      { "red": 0, "green": 1, "blue": 11 },
+      { "red": 18, "green": 3, "blue": 8 }
+    ]
+  },
+  {
+    "id": 19,
+    "games": [
+      { "red": 2, "green": 16, "blue": 2 },
+      { "red": 2, "green": 17, "blue": 5 },
+      { "red": 0, "green": 10, "blue": 6 },
+      { "red": 0, "green": 11, "blue": 2 },
+      { "red": 5, "green": 15, "blue": 3 },
+      { "red": 8, "green": 18, "blue": 0 }
+    ]
+  },
+  {
+    "id": 20,
+    "games": [
+      { "red": 7, "green": 6, "blue": 3 },
+      { "red": 7, "green": 16, "blue": 0 },
+      { "red": 0, "green": 6, "blue": 1 },
+      { "red": 7, "green": 1, "blue": 0 }
+    ]
+  },
+  {
+    "id": 21,
+    "games": [
+      { "red": 10, "green": 0, "blue": 10 },
+      { "red": 7, "green": 16, "blue": 4 },
+      { "red": 2, "green": 11, "blue": 9 }
+    ]
+  },
+  {
+    "id": 22,
+    "games": [
+      { "red": 7, "green": 12, "blue": 2 },
+      { "red": 3, "green": 10, "blue": 6 },
+      { "red": 11, "green": 12, "blue": 3 },
+      { "red": 8, "green": 3, "blue": 3 },
+      { "red": 3, "green": 4, "blue": 7 }
+    ]
+  },
+  {
+    "id": 23,
+    "games": [
+      { "red": 7, "green": 0, "blue": 9 },
+      { "red": 5, "green": 1, "blue": 4 },
+      { "red": 10, "green": 8, "blue": 9 },
+      { "red": 9, "green": 8, "blue": 11 }
+    ]
+  },
+  {
+    "id": 24,
+    "games": [
+      { "red": 2, "green": 15, "blue": 4 },
+      { "red": 0, "green": 1, "blue": 4 },
+      { "red": 0, "green": 7, "blue": 2 }
+    ]
+  },
+  {
+    "id": 25,
+    "games": [
+      { "red": 12, "green": 12, "blue": 0 },
+      { "red": 11, "green": 15, "blue": 5 },
+      { "red": 5, "green": 15, "blue": 3 },
+      { "red": 10, "green": 15, "blue": 6 },
+      { "red": 5, "green": 1, "blue": 3 }
+    ]
+  },
+  {
+    "id": 26,
+    "games": [
+      { "red": 7, "green": 18, "blue": 6 },
+      { "red": 3, "green": 2, "blue": 7 },
+      { "red": 1, "green": 1, "blue": 1 },
+      { "red": 5, "green": 16, "blue": 2 },
+      { "red": 4, "green": 0, "blue": 5 },
+      { "red": 12, "green": 0, "blue": 2 }
+    ]
+  },
+  {
+    "id": 27,
+    "games": [
+      { "red": 5, "green": 5, "blue": 1 },
+      { "red": 7, "green": 5, "blue": 11 },
+      { "red": 4, "green": 7, "blue": 8 },
+      { "red": 0, "green": 3, "blue": 3 },
+      { "red": 0, "green": 14, "blue": 1 }
+    ]
+  },
+  {
+    "id": 28,
+    "games": [
+      { "red": 1, "green": 12, "blue": 1 },
+      { "red": 1, "green": 17, "blue": 1 },
+      { "red": 1, "green": 15, "blue": 1 }
+    ]
+  },
+  {
+    "id": 29,
+    "games": [
+      { "red": 0, "green": 15, "blue": 10 },
+      { "red": 2, "green": 6, "blue": 5 },
+      { "red": 0, "green": 19, "blue": 5 }
+    ]
+  },
+  {
+    "id": 30,
+    "games": [
+      { "red": 10, "green": 13, "blue": 2 },
+      { "red": 1, "green": 14, "blue": 5 },
+      { "red": 14, "green": 9, "blue": 3 },
+      { "red": 17, "green": 14, "blue": 14 },
+      { "red": 16, "green": 9, "blue": 15 }
+    ]
+  },
+  {
+    "id": 31,
+    "games": [
+      { "red": 8, "green": 6, "blue": 1 },
+      { "red": 12, "green": 8, "blue": 0 },
+      { "red": 5, "green": 8, "blue": 0 },
+      { "red": 11, "green": 9, "blue": 0 }
+    ]
+  },
+  {
+    "id": 32,
+    "games": [
+      { "red": 6, "green": 7, "blue": 0 },
+      { "red": 2, "green": 12, "blue": 1 },
+      { "red": 2, "green": 3, "blue": 0 },
+      { "red": 4, "green": 13, "blue": 0 },
+      { "red": 7, "green": 9, "blue": 0 }
+    ]
+  },
+  {
+    "id": 33,
+    "games": [
+      { "red": 3, "green": 10, "blue": 7 },
+      { "red": 3, "green": 15, "blue": 4 },
+      { "red": 6, "green": 18, "blue": 7 },
+      { "red": 5, "green": 10, "blue": 10 },
+      { "red": 6, "green": 10, "blue": 2 },
+      { "red": 6, "green": 3, "blue": 7 }
+    ]
+  },
+  {
+    "id": 34,
+    "games": [
+      { "red": 1, "green": 3, "blue": 6 },
+      { "red": 2, "green": 2, "blue": 13 },
+      { "red": 2, "green": 7, "blue": 5 },
+      { "red": 4, "green": 5, "blue": 2 },
+      { "red": 3, "green": 3, "blue": 4 }
+    ]
+  },
+  {
+    "id": 35,
+    "games": [
+      { "red": 3, "green": 0, "blue": 4 },
+      { "red": 6, "green": 3, "blue": 2 },
+      { "red": 3, "green": 8, "blue": 4 },
+      { "red": 11, "green": 3, "blue": 4 },
+      { "red": 6, "green": 5, "blue": 1 },
+      { "red": 8, "green": 7, "blue": 0 }
+    ]
+  },
+  {
+    "id": 36,
+    "games": [
+      { "red": 8, "green": 2, "blue": 2 },
+      { "red": 14, "green": 11, "blue": 0 },
+      { "red": 14, "green": 1, "blue": 0 },
+      { "red": 11, "green": 7, "blue": 2 }
+    ]
+  },
+  {
+    "id": 37,
+    "games": [
+      { "red": 10, "green": 2, "blue": 0 },
+      { "red": 5, "green": 1, "blue": 0 },
+      { "red": 5, "green": 11, "blue": 0 },
+      { "red": 2, "green": 11, "blue": 1 }
+    ]
+  },
+  {
+    "id": 38,
+    "games": [
+      { "red": 11, "green": 1, "blue": 11 },
+      { "red": 9, "green": 1, "blue": 0 },
+      { "red": 5, "green": 1, "blue": 2 },
+      { "red": 2, "green": 0, "blue": 6 }
+    ]
+  },
+  {
+    "id": 39,
+    "games": [
+      { "red": 3, "green": 0, "blue": 0 },
+      { "red": 18, "green": 2, "blue": 2 },
+      { "red": 0, "green": 2, "blue": 0 },
+      { "red": 6, "green": 2, "blue": 0 },
+      { "red": 12, "green": 0, "blue": 0 },
+      { "red": 11, "green": 3, "blue": 0 }
+    ]
+  },
+  {
+    "id": 40,
+    "games": [
+      { "red": 4, "green": 0, "blue": 3 },
+      { "red": 2, "green": 0, "blue": 0 },
+      { "red": 7, "green": 1, "blue": 2 },
+      { "red": 0, "green": 1, "blue": 1 },
+      { "red": 0, "green": 5, "blue": 0 },
+      { "red": 2, "green": 2, "blue": 1 }
+    ]
+  },
+  {
+    "id": 41,
+    "games": [
+      { "red": 10, "green": 5, "blue": 3 },
+      { "red": 12, "green": 6, "blue": 3 },
+      { "red": 7, "green": 5, "blue": 2 },
+      { "red": 2, "green": 3, "blue": 2 }
+    ]
+  },
+  {
+    "id": 42,
+    "games": [
+      { "red": 1, "green": 11, "blue": 0 },
+      { "red": 4, "green": 6, "blue": 0 },
+      { "red": 4, "green": 7, "blue": 4 },
+      { "red": 5, "green": 11, "blue": 5 }
+    ]
+  },
+  {
+    "id": 43,
+    "games": [
+      { "red": 0, "green": 0, "blue": 1 },
+      { "red": 0, "green": 6, "blue": 16 },
+      { "red": 1, "green": 7, "blue": 0 },
+      { "red": 2, "green": 15, "blue": 7 },
+      { "red": 2, "green": 16, "blue": 3 },
+      { "red": 3, "green": 0, "blue": 14 }
+    ]
+  },
+  {
+    "id": 44,
+    "games": [
+      { "red": 1, "green": 3, "blue": 5 },
+      { "red": 1, "green": 0, "blue": 9 },
+      { "red": 0, "green": 0, "blue": 14 },
+      { "red": 2, "green": 1, "blue": 7 }
+    ]
+  },
+  {
+    "id": 45,
+    "games": [
+      { "red": 1, "green": 0, "blue": 1 },
+      { "red": 1, "green": 0, "blue": 1 },
+      { "red": 1, "green": 3, "blue": 0 },
+      { "red": 0, "green": 1, "blue": 1 }
+    ]
+  },
+  {
+    "id": 46,
+    "games": [
+      { "red": 8, "green": 1, "blue": 2 },
+      { "red": 7, "green": 2, "blue": 13 },
+      { "red": 3, "green": 0, "blue": 4 },
+      { "red": 5, "green": 2, "blue": 18 },
+      { "red": 4, "green": 5, "blue": 9 },
+      { "red": 3, "green": 1, "blue": 7 }
+    ]
+  },
+  {
+    "id": 47,
+    "games": [
+      { "red": 1, "green": 8, "blue": 8 },
+      { "red": 2, "green": 6, "blue": 1 },
+      { "red": 5, "green": 2, "blue": 6 },
+      { "red": 6, "green": 6, "blue": 6 },
+      { "red": 7, "green": 6, "blue": 9 }
+    ]
+  },
+  {
+    "id": 48,
+    "games": [
+      { "red": 8, "green": 14, "blue": 5 },
+      { "red": 7, "green": 10, "blue": 7 },
+      { "red": 6, "green": 9, "blue": 9 },
+      { "red": 17, "green": 9, "blue": 5 }
+    ]
+  },
+  {
+    "id": 49,
+    "games": [
+      { "red": 2, "green": 10, "blue": 6 },
+      { "red": 4, "green": 5, "blue": 3 },
+      { "red": 8, "green": 11, "blue": 8 },
+      { "red": 5, "green": 6, "blue": 5 }
+    ]
+  },
+  {
+    "id": 50,
+    "games": [
+      { "red": 3, "green": 2, "blue": 0 },
+      { "red": 1, "green": 0, "blue": 8 },
+      { "red": 2, "green": 2, "blue": 3 }
+    ]
+  },
+  {
+    "id": 51,
+    "games": [
+      { "red": 8, "green": 4, "blue": 0 },
+      { "red": 8, "green": 13, "blue": 5 },
+      { "red": 3, "green": 14, "blue": 11 },
+      { "red": 3, "green": 11, "blue": 5 },
+      { "red": 5, "green": 11, "blue": 9 },
+      { "red": 4, "green": 6, "blue": 12 }
+    ]
+  },
+  {
+    "id": 52,
+    "games": [
+      { "red": 1, "green": 2, "blue": 1 },
+      { "red": 2, "green": 2, "blue": 3 },
+      { "red": 4, "green": 1, "blue": 3 },
+      { "red": 0, "green": 0, "blue": 2 },
+      { "red": 8, "green": 0, "blue": 2 }
+    ]
+  },
+  {
+    "id": 53,
+    "games": [
+      { "red": 9, "green": 4, "blue": 18 },
+      { "red": 0, "green": 9, "blue": 6 },
+      { "red": 9, "green": 9, "blue": 14 }
+    ]
+  },
+  {
+    "id": 54,
+    "games": [
+      { "red": 2, "green": 3, "blue": 7 },
+      { "red": 3, "green": 6, "blue": 2 },
+      { "red": 3, "green": 3, "blue": 1 },
+      { "red": 4, "green": 2, "blue": 9 }
+    ]
+  },
+  {
+    "id": 55,
+    "games": [
+      { "red": 0, "green": 3, "blue": 6 },
+      { "red": 6, "green": 6, "blue": 8 },
+      { "red": 3, "green": 5, "blue": 0 },
+      { "red": 1, "green": 8, "blue": 4 },
+      { "red": 1, "green": 0, "blue": 2 }
+    ]
+  },
+  {
+    "id": 56,
+    "games": [
+      { "red": 0, "green": 4, "blue": 0 },
+      { "red": 1, "green": 4, "blue": 2 },
+      { "red": 0, "green": 6, "blue": 3 }
+    ]
+  },
+  {
+    "id": 57,
+    "games": [
+      { "red": 15, "green": 3, "blue": 0 },
+      { "red": 15, "green": 2, "blue": 1 },
+      { "red": 15, "green": 1, "blue": 0 }
+    ]
+  },
+  {
+    "id": 58,
+    "games": [
+      { "red": 1, "green": 0, "blue": 5 },
+      { "red": 0, "green": 5, "blue": 0 },
+      { "red": 2, "green": 6, "blue": 8 },
+      { "red": 1, "green": 6, "blue": 6 }
+    ]
+  },
+  {
+    "id": 59,
+    "games": [
+      { "red": 5, "green": 3, "blue": 8 },
+      { "red": 4, "green": 1, "blue": 12 },
+      { "red": 0, "green": 2, "blue": 18 },
+      { "red": 2, "green": 4, "blue": 0 },
+      { "red": 3, "green": 1, "blue": 16 }
+    ]
+  },
+  {
+    "id": 60,
+    "games": [
+      { "red": 2, "green": 7, "blue": 6 },
+      { "red": 2, "green": 4, "blue": 6 },
+      { "red": 0, "green": 11, "blue": 5 },
+      { "red": 3, "green": 4, "blue": 4 },
+      { "red": 2, "green": 7, "blue": 8 },
+      { "red": 4, "green": 6, "blue": 1 }
+    ]
+  },
+  {
+    "id": 61,
+    "games": [
+      { "red": 6, "green": 6, "blue": 0 },
+      { "red": 0, "green": 1, "blue": 3 },
+      { "red": 1, "green": 6, "blue": 7 },
+      { "red": 5, "green": 19, "blue": 7 }
+    ]
+  },
+  {
+    "id": 62,
+    "games": [
+      { "red": 3, "green": 4, "blue": 0 },
+      { "red": 2, "green": 0, "blue": 4 },
+      { "red": 1, "green": 5, "blue": 13 }
+    ]
+  },
+  {
+    "id": 63,
+    "games": [
+      { "red": 2, "green": 13, "blue": 4 },
+      { "red": 5, "green": 10, "blue": 10 },
+      { "red": 6, "green": 3, "blue": 13 }
+    ]
+  },
+  {
+    "id": 64,
+    "games": [
+      { "red": 0, "green": 2, "blue": 5 },
+      { "red": 1, "green": 6, "blue": 1 },
+      { "red": 0, "green": 11, "blue": 3 },
+      { "red": 1, "green": 8, "blue": 2 }
+    ]
+  },
+  {
+    "id": 65,
+    "games": [
+      { "red": 4, "green": 5, "blue": 2 },
+      { "red": 4, "green": 1, "blue": 2 },
+      { "red": 3, "green": 5, "blue": 4 },
+      { "red": 6, "green": 0, "blue": 3 },
+      { "red": 5, "green": 2, "blue": 3 },
+      { "red": 3, "green": 2, "blue": 0 }
+    ]
+  },
+  {
+    "id": 66,
+    "games": [
+      { "red": 14, "green": 17, "blue": 1 },
+      { "red": 2, "green": 12, "blue": 2 },
+      { "red": 14, "green": 4, "blue": 1 }
+    ]
+  },
+  {
+    "id": 67,
+    "games": [
+      { "red": 4, "green": 7, "blue": 10 },
+      { "red": 0, "green": 4, "blue": 11 },
+      { "red": 2, "green": 7, "blue": 3 },
+      { "red": 3, "green": 9, "blue": 11 }
+    ]
+  },
+  {
+    "id": 68,
+    "games": [
+      { "red": 4, "green": 0, "blue": 5 },
+      { "red": 5, "green": 8, "blue": 10 },
+      { "red": 1, "green": 1, "blue": 10 }
+    ]
+  },
+  {
+    "id": 69,
+    "games": [
+      { "red": 1, "green": 2, "blue": 15 },
+      { "red": 0, "green": 15, "blue": 16 },
+      { "red": 1, "green": 15, "blue": 14 },
+      { "red": 2, "green": 5, "blue": 11 },
+      { "red": 1, "green": 5, "blue": 13 },
+      { "red": 0, "green": 16, "blue": 2 }
+    ]
+  },
+  {
+    "id": 70,
+    "games": [
+      { "red": 1, "green": 9, "blue": 2 },
+      { "red": 1, "green": 2, "blue": 0 },
+      { "red": 0, "green": 7, "blue": 4 }
+    ]
+  },
+  {
+    "id": 71,
+    "games": [
+      { "red": 0, "green": 1, "blue": 5 },
+      { "red": 0, "green": 2, "blue": 5 },
+      { "red": 1, "green": 1, "blue": 2 },
+      { "red": 1, "green": 0, "blue": 5 },
+      { "red": 1, "green": 0, "blue": 0 }
+    ]
+  },
+  {
+    "id": 72,
+    "games": [
+      { "red": 0, "green": 5, "blue": 5 },
+      { "red": 3, "green": 8, "blue": 0 },
+      { "red": 0, "green": 8, "blue": 7 }
+    ]
+  },
+  {
+    "id": 73,
+    "games": [
+      { "red": 4, "green": 1, "blue": 3 },
+      { "red": 3, "green": 5, "blue": 5 },
+      { "red": 1, "green": 7, "blue": 8 },
+      { "red": 3, "green": 9, "blue": 3 },
+      { "red": 2, "green": 13, "blue": 10 }
+    ]
+  },
+  {
+    "id": 74,
+    "games": [
+      { "red": 2, "green": 4, "blue": 5 },
+      { "red": 4, "green": 6, "blue": 3 },
+      { "red": 5, "green": 6, "blue": 2 }
+    ]
+  },
+  {
+    "id": 75,
+    "games": [
+      { "red": 10, "green": 20, "blue": 14 },
+      { "red": 17, "green": 15, "blue": 9 },
+      { "red": 6, "green": 8, "blue": 18 }
+    ]
+  },
+  {
+    "id": 76,
+    "games": [
+      { "red": 1, "green": 7, "blue": 9 },
+      { "red": 3, "green": 1, "blue": 0 },
+      { "red": 3, "green": 3, "blue": 0 },
+      { "red": 20, "green": 9, "blue": 4 },
+      { "red": 12, "green": 0, "blue": 7 }
+    ]
+  },
+  {
+    "id": 77,
+    "games": [
+      { "red": 7, "green": 9, "blue": 1 },
+      { "red": 7, "green": 5, "blue": 0 },
+      { "red": 4, "green": 1, "blue": 1 },
+      { "red": 3, "green": 6, "blue": 3 },
+      { "red": 18, "green": 5, "blue": 3 }
+    ]
+  },
+  {
+    "id": 78,
+    "games": [
+      { "red": 11, "green": 4, "blue": 4 },
+      { "red": 12, "green": 3, "blue": 4 },
+      { "red": 11, "green": 4, "blue": 13 },
+      { "red": 8, "green": 6, "blue": 5 }
+    ]
+  },
+  {
+    "id": 79,
+    "games": [
+      { "red": 16, "green": 0, "blue": 1 },
+      { "red": 9, "green": 2, "blue": 2 },
+      { "red": 12, "green": 0, "blue": 2 },
+      { "red": 12, "green": 3, "blue": 0 }
+    ]
+  },
+  {
+    "id": 80,
+    "games": [
+      { "red": 5, "green": 3, "blue": 2 },
+      { "red": 5, "green": 3, "blue": 8 },
+      { "red": 8, "green": 8, "blue": 10 },
+      { "red": 4, "green": 0, "blue": 5 }
+    ]
+  },
+  {
+    "id": 81,
+    "games": [
+      { "red": 3, "green": 1, "blue": 0 },
+      { "red": 0, "green": 0, "blue": 6 },
+      { "red": 6, "green": 1, "blue": 8 },
+      { "red": 0, "green": 1, "blue": 8 }
+    ]
+  },
+  {
+    "id": 82,
+    "games": [
+      { "red": 2, "green": 0, "blue": 4 },
+      { "red": 3, "green": 10, "blue": 7 },
+      { "red": 1, "green": 7, "blue": 0 }
+    ]
+  },
+  {
+    "id": 83,
+    "games": [
+      { "red": 0, "green": 9, "blue": 12 },
+      { "red": 0, "green": 10, "blue": 7 },
+      { "red": 1, "green": 7, "blue": 12 },
+      { "red": 0, "green": 5, "blue": 12 }
+    ]
+  },
+  {
+    "id": 84,
+    "games": [
+      { "red": 1, "green": 1, "blue": 2 },
+      { "red": 9, "green": 2, "blue": 0 },
+      { "red": 14, "green": 2, "blue": 1 },
+      { "red": 9, "green": 2, "blue": 0 },
+      { "red": 9, "green": 2, "blue": 4 }
+    ]
+  },
+  {
+    "id": 85,
+    "games": [
+      { "red": 8, "green": 8, "blue": 1 },
+      { "red": 4, "green": 1, "blue": 4 },
+      { "red": 8, "green": 7, "blue": 18 },
+      { "red": 3, "green": 5, "blue": 15 },
+      { "red": 1, "green": 4, "blue": 11 },
+      { "red": 3, "green": 4, "blue": 1 }
+    ]
+  },
+  {
+    "id": 86,
+    "games": [
+      { "red": 11, "green": 14, "blue": 14 },
+      { "red": 0, "green": 9, "blue": 14 },
+      { "red": 12, "green": 4, "blue": 13 },
+      { "red": 2, "green": 14, "blue": 9 },
+      { "red": 5, "green": 17, "blue": 1 }
+    ]
+  },
+  {
+    "id": 87,
+    "games": [
+      { "red": 3, "green": 3, "blue": 7 },
+      { "red": 2, "green": 3, "blue": 20 },
+      { "red": 0, "green": 12, "blue": 9 },
+      { "red": 3, "green": 8, "blue": 3 },
+      { "red": 2, "green": 12, "blue": 9 }
+    ]
+  },
+  {
+    "id": 88,
+    "games": [
+      { "red": 1, "green": 4, "blue": 4 },
+      { "red": 3, "green": 1, "blue": 1 },
+      { "red": 3, "green": 2, "blue": 3 },
+      { "red": 0, "green": 5, "blue": 1 }
+    ]
+  },
+  {
+    "id": 89,
+    "games": [
+      { "red": 1, "green": 0, "blue": 8 },
+      { "red": 4, "green": 1, "blue": 6 },
+      { "red": 3, "green": 0, "blue": 12 },
+      { "red": 1, "green": 0, "blue": 4 },
+      { "red": 3, "green": 1, "blue": 5 },
+      { "red": 7, "green": 0, "blue": 7 }
+    ]
+  },
+  {
+    "id": 90,
+    "games": [
+      { "red": 3, "green": 2, "blue": 0 },
+      { "red": 13, "green": 0, "blue": 4 },
+      { "red": 7, "green": 0, "blue": 1 }
+    ]
+  },
+  {
+    "id": 91,
+    "games": [
+      { "red": 2, "green": 9, "blue": 8 },
+      { "red": 0, "green": 17, "blue": 5 },
+      { "red": 1, "green": 2, "blue": 7 },
+      { "red": 3, "green": 11, "blue": 8 },
+      { "red": 2, "green": 1, "blue": 5 }
+    ]
+  },
+  {
+    "id": 92,
+    "games": [
+      { "red": 8, "green": 0, "blue": 11 },
+      { "red": 2, "green": 7, "blue": 9 },
+      { "red": 6, "green": 3, "blue": 3 },
+      { "red": 2, "green": 4, "blue": 8 },
+      { "red": 8, "green": 12, "blue": 9 },
+      { "red": 6, "green": 0, "blue": 14 }
+    ]
+  },
+  {
+    "id": 93,
+    "games": [
+      { "red": 1, "green": 3, "blue": 4 },
+      { "red": 1, "green": 7, "blue": 3 },
+      { "red": 1, "green": 6, "blue": 3 },
+      { "red": 1, "green": 10, "blue": 3 },
+      { "red": 0, "green": 7, "blue": 3 }
+    ]
+  },
+  {
+    "id": 94,
+    "games": [
+      { "red": 11, "green": 13, "blue": 3 },
+      { "red": 15, "green": 4, "blue": 5 },
+      { "red": 1, "green": 7, "blue": 0 }
+    ]
+  },
+  {
+    "id": 95,
+    "games": [
+      { "red": 6, "green": 4, "blue": 10 },
+      { "red": 0, "green": 4, "blue": 9 },
+      { "red": 9, "green": 5, "blue": 8 },
+      { "red": 0, "green": 7, "blue": 12 },
+      { "red": 3, "green": 8, "blue": 12 },
+      { "red": 5, "green": 2, "blue": 0 }
+    ]
+  },
+  {
+    "id": 96,
+    "games": [
+      { "red": 2, "green": 2, "blue": 1 },
+      { "red": 1, "green": 4, "blue": 0 },
+      { "red": 0, "green": 1, "blue": 0 }
+    ]
+  },
+  {
+    "id": 97,
+    "games": [
+      { "red": 4, "green": 5, "blue": 0 },
+      { "red": 3, "green": 0, "blue": 5 },
+      { "red": 1, "green": 2, "blue": 8 }
+    ]
+  },
+  {
+    "id": 98,
+    "games": [
+      { "red": 0, "green": 0, "blue": 1 },
+      { "red": 1, "green": 2, "blue": 0 },
+      { "red": 5, "green": 2, "blue": 0 },
+      { "red": 4, "green": 1, "blue": 0 },
+      { "red": 2, "green": 2, "blue": 2 }
+    ]
+  },
+  {
+    "id": 99,
+    "games": [
+      { "red": 5, "green": 2, "blue": 6 },
+      { "red": 9, "green": 0, "blue": 1 },
+      { "red": 2, "green": 2, "blue": 5 },
+      { "red": 0, "green": 2, "blue": 10 },
+      { "red": 4, "green": 1, "blue": 11 }
+    ]
+  },
+  {
+    "id": 100,
+    "games": [
+      { "red": 14, "green": 13, "blue": 1 },
+      { "red": 7, "green": 11, "blue": 11 },
+      { "red": 2, "green": 2, "blue": 1 },
+      { "red": 15, "green": 0, "blue": 10 }
+    ]
+  }
+]
